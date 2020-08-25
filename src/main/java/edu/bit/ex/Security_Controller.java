@@ -14,12 +14,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Handles requests for the application home page.
  */
-<<<<<<< HEAD
 //develop-1
 //develop-2
-=======
 
->>>>>>> master
+
+
 @Controller
 public class Security_Controller {
 	
